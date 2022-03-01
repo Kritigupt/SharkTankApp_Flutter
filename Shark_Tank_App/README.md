@@ -1,6 +1,6 @@
 Screenshots of my Shark Tank India app.
 In this app, I have basically included some famous funny dialogues of the entrepreneurs of Shark Tank India.
-It is scrollable as well.    So,Enjoy reading them :)
+So,Enjoy reading them :)
 
 ![image](https://user-images.githubusercontent.com/90100012/156010280-085d9f98-565f-4008-94a5-d5afac2fec3a.png)
 
