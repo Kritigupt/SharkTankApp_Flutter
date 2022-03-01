@@ -27,10 +27,14 @@ class SharkTankIndiaApp extends StatelessWidget {
         Row(
         children: [
           
-        Image.asset("ashneer.jpg", height: 145, width: 250),
-        const SizedBox(width: 15 ),
+        Image.asset("ashneer.jpg", 
+                    height: 145, 
+                    width: 250),
+        const SizedBox( width: 15 ),
         const Text(" 'Isse wahiyat product naa maine zindagi me kabhi dekha hai , aur na me dekhna chahta hoon! '                       - Ashneer Grover"              
-         , style: TextStyle( fontSize:18, fontWeight: FontWeight.bold,)),
+         , style: TextStyle( 
+           fontSize:18, 
+           fontWeight: FontWeight.bold,)),
 
       ],
       ),
@@ -39,7 +43,9 @@ class SharkTankIndiaApp extends StatelessWidget {
         Image.asset("namita.jpg", height: 150, width: 250),
         const SizedBox(width: 15),
          Text(" 'Ye meri expertise nahi hai , So for that reason I am out, but I wish You the best!'                                           - Namita Thappar"
-          , style: TextStyle( fontSize:18, fontWeight: FontWeight.bold,) ),
+          , style: TextStyle( 
+            fontSize:18, 
+            fontWeight: FontWeight.bold,) ),
          
       ],
       ),
@@ -48,7 +54,9 @@ class SharkTankIndiaApp extends StatelessWidget {
         Image.asset("anupam.jpg", height: 190, width: 250),
         const SizedBox(width: 15),
         const Text(" 'Me aapko sharminda nahi karna chahta hoon , but it's a joke! '                                                                 - Anupam Mittal"
-         ,style: TextStyle( fontSize:18, fontWeight: FontWeight.bold,)),
+         ,style: TextStyle( 
+           fontSize:18, 
+           fontWeight: FontWeight.bold,)),
 
       ],
       ),
@@ -57,7 +65,9 @@ class SharkTankIndiaApp extends StatelessWidget {
         Image.asset("aman.webp", height: 150, width: 250),
         const SizedBox(width: 15),
         const Text(" 'Har industry ka ek gunda hota hai, aur yaha ke gunde hum hai! '                                                               - Aman Gupta", 
-        style: TextStyle( fontSize:18, fontWeight: FontWeight.bold,) ),
+        style: TextStyle( 
+          fontSize:18,
+          fontWeight: FontWeight.bold,) ),
 
       ],
       ),
